@@ -3,4 +3,4 @@
 The homework for this week can be found in this folder.
 
 ## Handing in your homework
-Push your code to your own github and TODO
+Push your code to your own github and lalalala
